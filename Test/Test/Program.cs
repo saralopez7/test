@@ -10,11 +10,7 @@ namespace Test
     {
         private static void Main(string[] args)
         {
-            //IloveSara
-
-            List<String> asd;
-
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!");
             Console.ReadKey();
         }
     }
