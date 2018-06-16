@@ -12,6 +12,8 @@ namespace Test
         {
             //IloveSara
 
+            List<String> asd;
+
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
